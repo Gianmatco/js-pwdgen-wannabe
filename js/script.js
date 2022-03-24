@@ -16,5 +16,7 @@ let color = prompt('quale il tuo colore preferito ?')
 
 
 
-document.getElementById('password').innerHTML += userName + lastName + color;
+
+document.getElementById('password').innerHTML += userName + lastName + color + '21' ;
+
 
